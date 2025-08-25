@@ -1,0 +1,20 @@
+Aula 02 - Infra Ti - Exercícios
+Felipe Baba Teixeira
+
+01- Letra C
+02- Letra C
+03- Letra B
+04- Letra B
+05- Letra B
+
+06- A mais adequada seria o modelo de Harvard, porque sua capacidade de processamento mais rápido, que permite que a CPU execute buscas de instruções e acessos a dados simultaneamente
+
+07- RISC = poucas instruções simples
+    CISC = muitas instruções complexas
+ 
+    A abordagem da arquitetura CISC pode ser mais adequada para um banco, porque ela suporta muitas instruções complexas
+
+08- Isso acontece porque a arquitetura x32 só suporta até 4gb de memória ram, a solução para resolver o problema seria adotar uma arquitetura x64 onde já é aceito 8gb de memória ram  
+
+  
+
